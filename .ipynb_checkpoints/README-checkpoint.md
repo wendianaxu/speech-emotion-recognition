@@ -3,7 +3,7 @@
 ## Abstract
 Our project aims at predicting the emotion expressed by the human speech based on the Mel Frequency Cepstral Coefficient (MFCC) features, which contain information about the rate changes in the different spectrum bands. We plan to approach the problem by 1) cleaning the data and transforming the audio files to a machine-readable format, 2) exploring the data with a focus on the MFCC features, 3) using deep learning models to train the test dataset, and 4) testing with the test dataset. Evaluation of the success will be based on: 1) completeness in data cleaning, training, and testing; 2) use of plots that demonstrate comprehensive data exploration and data analysis; 3) level of detail in documentation; 4) level of model accuracy[^1]; 5) depth of discussion on implications and potential biases; and 6) the clarity, conciseness, and accessibility of the presentation.
 
-[1^]: Evaluation of the model accuracy ranges from high to low in the following sequence: "higher than the accuracy achieved by publicly available algorithms" --> "slightly lower than the accuracy achieved by publicly available algorithms" --> "higher than the baseline accuracy" --> "lower than the baseline accuracy"
+[^1]: Evaluation of the model accuracy ranges from high to low in the following sequence: "higher than the accuracy achieved by publicly available algorithms" --> "slightly lower than the accuracy achieved by publicly available algorithms" --> "higher than the baseline accuracy" --> "lower than the baseline accuracy"
 
 ## What You Will Learn
 Alice's Project Goals & Learning Intentions:
